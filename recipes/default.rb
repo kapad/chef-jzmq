@@ -1,5 +1,3 @@
-include_recipe "zeromq-cookbook"
-
 src_filepath  = "/tmp/jzmq.tar.gz"
 remote_file src_filepath do 
   source node['jzmq']['url']

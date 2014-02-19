@@ -5,7 +5,6 @@ jzmq chef recipe
 
 Requirements
 ============
-zeromq-cookbook
 
 Attributes
 ==========
