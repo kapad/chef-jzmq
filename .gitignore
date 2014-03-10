@@ -14,3 +14,7 @@ bin/*
 .bundle/*
 
 /.project
+
+
+*.sublime-workspace
+*.sublime-project
